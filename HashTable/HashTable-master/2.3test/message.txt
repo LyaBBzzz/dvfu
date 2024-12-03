@@ -1,0 +1,47 @@
+ 0  78255101517          Bubu Papkin Nikitich         Poselkovaya 34
+60  73628234343          Gena Papkin Bubavich            Felixova 70
+36  78008805143        Gena Klimanov Bubavich         Poselkovaya 58
+57  78234023198          Gena Papkin Bubavich         Poselkovaya 33
+40  71425389287        Gena Negrov Denisovich         Poselkovaya 18
+17  73597980147         Liza Negrov Igorevich         Poselkovaya 51
+80  78245044051         Bubu Pupkin Sashavich            Felixova 75
+69  78726938103          Gena Dudkin Lizavich         Poselkovaya 25
+68  75413735856          Dudu Negrov Nikitich         Poselkovaya 28
+82  70697894156          Dima Mamkin Pupavich          Kitaiskaya 30
+25  74061214952        Gena Pupkin Pushkovich            Pushkina 46
+58  71688277126          Dudu Bubkin Pupavich            Pushkina 24
+84  73624588121       Petya Bubkin Pushkovich         Poselkovaya 84
+84  72998386986          Liza Dudkin Lizavich          Kitaiskaya 59
+40  72757827802       Dima Efremov Pushkovich          Kitaiskaya 82
+19  70552767878        Stas Efremov Sashavich         Poselkovaya 78
+86  79000725521          Stas Mamkin Lizavich            Felixova 86
+12  79835515584        Bubu Mamkin Denisovich            Pushkina 18
+47  74990303507         Gena Efremov Bubavich         Poselkovaya  5
+51  74195574734        Dima Pushkaaa Timurich          Kitaiskaya 67
+73  73246662904          Bubu Klimov Pupavich          Kitaiskaya 48
+58  75556059463          Dudu Bubkin Lizavich            Pushkina 43
+43  71288186024          Gena Pupkin Lizavich            Felixova  9
+67  74442504212      Pushka Pupkin Denisovich           Derjavina 40
+52  70341229822        Dima Klimanov Bubavich         Poselkovaya 67
+38  74469856607          Liza Papkin Lizavich            Felixova 18
+34  71321638328      Pushka Pervuxin Pupavich           Derjavina  7
+60  75467934788         Petya Papkin Timurich            Pushkina 40
+31  71723785858         Petya Bubkin Pupavich          Kitaiskaya 66
+46  71092491573         Sasha Negrov Nikitich          Kitaiskaya 73
+15  72770241037          Gena Bubkin Nikitich           Derjavina  4
+32  70286708183          Dima Negrov Nikitich            Felixova 49
+ 0  78418375817        Bubu Papkin Pushkovich            Pushkina 43
+79  76789555663        Liza Efremov Igorevich          Kitaiskaya 84
+85  70650972282          Gena Klimov Timurich          Kitaiskaya 10
+84  72584739519          Dudu Klimov Bubavich         Poselkovaya 14
+57  73104079081          Dima Mamkin Bubavich          Kitaiskaya 12
+56  78232104075          Liza Papkin Bubavich           Derjavina 10
+63  79891733076         Stas Bubkin Sashavich            Felixova 40
+30  79994208787         Dima Bubkin Sashavich           Derjavina 80
+11  71916033622          Dima Mamkin Nikitich           Derjavina 70
+59  75496082740       Pupka Klimov Denisovich          Kitaiskaya  4
+33  73851566889          Gena Negrov Bubavich            Felixova 86
+50  75863945382       Gena Pushkaaa Sashavich            Felixova 37
+68  73281646779         Dudu Negrov Sashavich         Poselkovaya 49
+13  73159702617       Stas Efremov Pushkovich            Pushkina 24
+ 6  77553188801         Sasha Klimov Nikitich            Felixova 82

@@ -1,0 +1,11 @@
+              YOUR CHECK          
+NAME - 123
+PASSWORD - 123
+0) - Диваны , count = 0,  price = 0
+1) - Жесткие диски , count = 0,  price = 0
+2) - Телефизоры , count = 0,  price = 0
+3) - Геймпады , count = 0,  price = 0
+4) - Процессоры , count = 0,  price = 0
+5) - Футбольные мячи , count = 0,  price = 0
+YOUR PRICE - 0
+     THANKS FOR BUYING!    
